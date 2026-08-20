@@ -94,7 +94,6 @@ export const projects = [
     ],
     links: {
       github: "https://github.com/adarsh985/globalmedx",
-      demo: "http://localhost:3000",
     },
     services: {
       frontend: "http://localhost:3000",
